@@ -72,7 +72,7 @@ python main.py
 
 ## 📊 Results
 
-Experiments were conducted on the **Flowers-102** dataset, using features extracted by different CNN architectures. The table below summarizes the main accuracy results (mean ± standard deviation over 10-fold cross-validation).
+Experiments were conducted on the **Flowers-17** dataset, using features extracted by different CNN architectures. The table below summarizes the main accuracy results (mean ± standard deviation over 10-fold cross-validation).
 
 | Feature Extractor | Correlation Function | Threshold | Final Accuracy          |
 |-------------------|----------------------|-----------|-------------------------|
