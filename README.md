@@ -1,4 +1,4 @@
-DGCG- Density-Guided** Ranked** Correlation** Graph** for Graph Convolutional Networks in Image Classification:
+DGCG- **Density-Guided** **Ranked** **Correlation** **Graph** for Graph Convolutional Networks in Image Classification:
 
 Repository for the Scientific Initiation project that explores the construction of image similarity graphs using rank correlation functions, with subsequent classification via Graph Convolutional Networks (GCN).
 
