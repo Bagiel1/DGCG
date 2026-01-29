@@ -2,10 +2,12 @@
 
 # DGCG: Density-Guided Correlation Graph
 
-[![Award](https://img.shields.io/badge/🏆_Best_Paper_Award-SIBGRAPI_2025-gold?style=for-the-badge)](LINK_PARA_O_CERTIFICADO_OU_PAPER)
+[![Award](https://img.shields.io/badge/🏆_Best_Paper_Award-SIBGRAPI_2025-gold?style=for-the-badge)]()
 [![Conference](https://img.shields.io/badge/Conference-SIBGRAPI_2025-blue?style=for-the-badge)](https://sibgrapi.sbc.org.br/)
 
 </div>
+
+> 🏆 **Best Paper Award** at the 38th SIBGRAPI Conference on Graphics, Patterns and Images (2025).
 
 DGCG- **Density-Guided** **Correlation** **Graph** for Graph Convolutional Networks in Image Classification:
 
@@ -95,7 +97,7 @@ Experiments were conducted on the **Flowers-17** dataset, using features extract
 * **Author:** G. B. Maia
 * **Advisor:** L. P. Valem
 
-* 
+
 ## 📚 Citation
 
 If you use this code in your research, please cite our SIBGRAPI 2025 paper:
@@ -114,3 +116,4 @@ G. M. Brito and L. P. Valem, "Density-Guided Rank Correlation Graphs for Graph C
   address   = {Salvador, Brazil},
   doi       = {10.1109/SIBGRAPI67909.2025.11223391}
 }
+'''
