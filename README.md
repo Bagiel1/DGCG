@@ -2,7 +2,7 @@
 
 # DGCG: Density-Guided Correlation Graph
 
-[![Award](https://img.shields.io/badge/🏆_Best_Paper_Award-SIBGRAPI_2025-gold?style=for-the-badge)](./Certificado.pdf)
+[![Award](https://img.shields.io/badge/🏆_Best_Paper_Award-SIBGRAPI_2025-gold?style=for-the-badge)]([Certificado.pdf](https://github.com/user-attachments/files/24938507/Certificado.pdf))
 [![Conference](https://img.shields.io/badge/Conference-SIBGRAPI_2025-blue?style=for-the-badge)](https://sibgrapi.sbc.org.br/)
 
 </div>
