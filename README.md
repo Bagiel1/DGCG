@@ -1,3 +1,12 @@
+<div align="center">
+
+# DGCG: Density-Guided Correlation Graph
+
+[![Award](https://img.shields.io/badge/🏆_Best_Paper_Award-SIBGRAPI_2025-gold?style=for-the-badge)](LINK_PARA_O_CERTIFICADO_OU_PAPER)
+[![Conference](https://img.shields.io/badge/Conference-SIBGRAPI_2025-blue?style=for-the-badge)](https://sibgrapi.sbc.org.br/)
+
+</div>
+
 DGCG- **Density-Guided** **Correlation** **Graph** for Graph Convolutional Networks in Image Classification:
 
 Repository for the Scientific Initiation project that explores the construction of image similarity graphs using rank correlation functions, with subsequent classification via Graph Convolutional Networks (GCN).
