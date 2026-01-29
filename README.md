@@ -85,3 +85,23 @@ Experiments were conducted on the **Flowers-17** dataset, using features extract
 
 * **Author:** G. B. Maia
 * **Advisor:** L. P. Valem
+
+* 
+## 📚 Citation
+
+If you use this code in your research, please cite our SIBGRAPI 2025 paper:
+
+**Text:**
+G. M. Brito and L. P. Valem, "Density-Guided Rank Correlation Graphs for Graph Convolutional Networks in Image Classification," 2025 38th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), Salvador, Brazil, 2025, pp. 1-6.
+
+**BibTeX:**
+```bibtex
+@inproceedings{brito2025density,
+  author    = {Brito, G. M. and Valem, L. P.},
+  title     = {Density-Guided Rank Correlation Graphs for Graph Convolutional Networks in Image Classification},
+  booktitle = {2025 38th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)},
+  year      = {2025},
+  pages     = {1--6},
+  address   = {Salvador, Brazil},
+  doi       = {10.1109/SIBGRAPI67909.2025.11223391}
+}
